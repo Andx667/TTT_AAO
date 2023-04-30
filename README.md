@@ -48,10 +48,8 @@ Alarmierungs- Ausrückeordnung des TTT für das Spiel Emergency 20 gespielt mit 
 - POL3 FuStW, FuStW, FuStW
 - POL4 FuStW, FuStW, FuStW, FuStW
 
-
 - POL-SEK SEK
 - POL-BePo BePo
-
 
 - POL-RAZZIA FuStW, FuStW, MTW | GefKW, SEK
 - POL-BOMBE FuStW, FuStW, FuStW, FuStW | KMRD
@@ -61,7 +59,7 @@ Alarmierungs- Ausrückeordnung des TTT für das Spiel Emergency 20 gespielt mit 
 
 ## Ausnahmezustand
 
-- ELW-A, ELW-2/AB-ELW, KdoW | LNA
+- ELW-A, KdoW, ELW-2/AB-ELW | LNA
 
 ## Importierbarer Code
 
