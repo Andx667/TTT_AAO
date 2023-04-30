@@ -11,9 +11,9 @@
 
 ## ABC
 
-ABC0 GW-Mess | GW-Dekon P
-ABC1 GW-Mess | GW-Dekon P, AB-Dekon
-ABC2 GW-Mess, ELW-A | GW-Dekon P, AB-Dekon, AB-ELW
+- ABC0 GW-Mess | GW-Dekon P
+- ABC1 GW-Mess | GW-Dekon P, AB-Dekon
+- ABC2 GW-Mess, ELW-A | GW-Dekon P, AB-Dekon, AB-ELW
 
 ## Technische Hilfe
 
