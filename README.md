@@ -1,37 +1,39 @@
 # AAO - TTT
 
+Alarmierungs- Ausrückeordnung des TTT für das Spiel Emergency 20 gespielt mit der Lüdenscheid-Mod.
+
 ## Feuer
 
-- B0 HLF (Kleinbrand ohne Ausbreitungsgefahr)
-- B1 ELW-C, HLF, DLK, LF (BMA, Rauch unklar, Heimrauchmelder)
-- B2 ELW-B | ELW-C, HLF, DLK, LF | LF, DLK, TLF | GW-ATS, GW-L (Siedlungsgebäude mit Ausbreitungstendenz)
-- B3 ELW-B, ELW-B | TLF, TLF, TLF | ELW-C, HLF, DLK, LF | HLF, DLK, LF | LF | GW-ATS | GW-L | EntStD (Engstehende Gebäude, Mehrfamilienhaus, Gewerbe)
-- B4 ELW-A, ELW-B, ELW-2/AB-ELW | TLF, TLF, TLF, TLF | ELW-C, HLF, DLK, LF | HLF, DLK, LF | HLF, DLK, LF | LF, LF | GW-ATS, AB-ATS | GW-L, SW2000 | EntStD (Industrie, Hochhaus, hohe Ausbreitungsgefahr)
-- B5 ELW-A, ELW-B, ELW-C, ELW-2/AB-ELW | TLF, TLF, TLF, TLF, TLF | ELW-C, HLF, DLK, LF | HLF, DLK, LF | HLF, DLK, LF | HLF, DLK, LF | LF, LF, LF | GW-ATS, AB-ATS | GW-L, GW-L, SW2000, AB-Wasser | EntStD | MTW, MTW | WaWe (Ausnahmelage, Großbrand mit schwieriger Wasserversorung und/oder hoher Ausbreitungsgefahr)
+- B0 HLF *(Kleinbrand ohne Ausbreitungsgefahr)*
+- B1 ELW-C, HLF, DLK, LF *(BMA, Rauch unklar, Heimrauchmelder)*
+- B2 ELW-B | ELW-C, HLF, DLK, LF | LF, DLK, TLF | GW-ATS, GW-L *(Siedlungsgebäude mit Ausbreitungstendenz)*
+- B3 ELW-B, ELW-B | TLF, TLF, TLF | ELW-C, HLF, DLK, LF | HLF, DLK, LF | LF | GW-ATS | GW-L | EntStD *(Engstehende Gebäude, Mehrfamilienhaus, Gewerbe)*
+- B4 ELW-A, ELW-B, ELW-2/AB-ELW | TLF, TLF, TLF, TLF | ELW-C, HLF, DLK, LF | HLF, DLK, LF | HLF, DLK, LF | LF, LF | GW-ATS, AB-ATS | GW-L, SW2000 | EntStD *(Industrie, Hochhaus, hohe Ausbreitungsgefahr)*
+- B5 ELW-A, ELW-B, ELW-C, ELW-2/AB-ELW | TLF, TLF, TLF, TLF, TLF | ELW-C, HLF, DLK, LF | HLF, DLK, LF | HLF, DLK, LF | HLF, DLK, LF | LF, LF, LF | GW-ATS, AB-ATS | GW-L, GW-L, SW2000, AB-Wasser | EntStD | MTW, MTW | WaWe *(Ausnahmelage, Großbrand mit schwieriger Wasserversorung und/oder hoher Ausbreitungsgefahr)*
 
 ## ABC
 
-- ABC0 GW-Mess | GW-Dekon P
-- ABC1 GW-Mess | GW-Dekon P, AB-Dekon
-- ABC2 GW-Mess, ELW-A | GW-Dekon P, AB-Dekon, AB-ELW
+- ABC0 GW-Mess | GW-Dekon P *(VU mit GSG)*
+- ABC1 GW-Mess | GW-Dekon P, AB-Dekon *(Großlage GSG)*
+- ABC2 GW-Mess, ELW-A | GW-Dekon P, AB-Dekon, AB-ELW  *(Großlage + Löschflugzeug)*
 
 ## Technische Hilfe
 
-- TH0 HLF (Festsitzender Aufzug, Türöffnung)
-- TH1 ELW-C, HLF, RW (Verkehrsunfall 3+)
-- TH2 ELW-C, HLF, HLF, RW (Verkehrsunfall 6+)
-- TH3 ELW-C, HLF, HLF, RW, AB-RÜST (Flugzeugabsturz/Zugunglück)
+- TH0 HLF *(Festsitzender Aufzug, Türöffnung)*
+- TH1 ELW-C, HLF, RW *(Sturmschäden, Verkehrsunfall 3+)*
+- TH2 ELW-C, HLF, HLF, RW *(Verkehrsunfall 6+)*
+- TH3 ELW-C, HLF, HLF, RW, AB-RÜST *(Flugzeugabsturz/Zugunglück)*
 
 ## Verkehrsunfall
 
-- VU0 FuStW (Sachschaden)
-- VU1 FuStW | RTW | HLF (1 Fhz)
-- VU2 FuStW, FuStW | RTW, RTW, NEF | HLF, HLF  (2 Fhz, Autobahn)
+- VU0 FuStW *(Sachschaden)*
+- VU1 FuStW | RTW | HLF *(1 Fhz)*
+- VU2 FuStW, FuStW | RTW, RTW, NEF | HLF, HLF *(2 Fhz, Autobahn)*
 
 ## Rettungsdienst
 
-- RD0 KTW (ohne SoSi)
-- RD1 RTW (mit SoSi)
+- RD0 KTW *(ohne SoSi)*
+- RD1 RTW
 - RDN1 RTW | NEF
 - RD2N RTW | RTW, NEF
 
