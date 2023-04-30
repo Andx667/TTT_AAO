@@ -34,7 +34,7 @@ Alarmierungs- Ausrückeordnung des TTT für das Spiel Emergency 20 gespielt mit 
 
 - RD0 KTW *(ohne SoSi)*
 - RD1 RTW
-- RDN1 RTW | NEF
+- RD1n RTW | NEF
 - RD2N RTW | RTW, NEF
 
 ## Massenanfall an Verletzten
