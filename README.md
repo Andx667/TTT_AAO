@@ -3,8 +3,9 @@
 Alarmierungs- Ausrückeordnung des TTT für das Spiel Emergency 20 gespielt mit der Lüdenscheid-Mod.
 
 ## Feuer
-
-- B0 HLF *(Kleinbrand ohne Ausbreitungsgefahr)*
+| Stichwort | Fahrzeuge | Typischer Einsatz |
+|-|-|
+|B0|HLF|*(Kleinbrand ohne Ausbreitungsgefahr)*|
 - B1 ELW-C, HLF, DLK, LF *(BMA, Rauch unklar, Heimrauchmelder)*
 - B2 ELW-B | ELW-C, HLF, DLK, LF | LF, DLK, TLF | GW-ATS, GW-L *(Siedlungsgebäude mit Ausbreitungstendenz)*
 - B3 ELW-B, ELW-B | TLF, TLF, TLF | ELW-C, HLF, DLK, LF | HLF, DLK, LF | LF | GW-ATS | GW-LOG | EKW *(Engstehende Gebäude, Mehrfamilienhaus, Gewerbe)*
