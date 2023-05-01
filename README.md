@@ -48,7 +48,7 @@ Stichwort | Fahrzeuge | Typischer Einsatz
 ---|---|---
 RD0 | KTW | ohne Sondersignal
 RD1 | RTW |
-RD1n | RTW - NEF |
+RD1N | RTW - NEF |
 RD2N | RTW, RTW - NEF |
 
 ### Massenanfall an Verletzten
