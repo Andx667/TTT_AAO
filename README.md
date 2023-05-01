@@ -1,66 +1,67 @@
-# AAO - TTT
+# AAO TTT
 
-Alarmierungs- Ausrückeordnung des TTT für das Spiel Emergency 20 gespielt mit der Lüdenscheid-Mod.
+AlarmierungsAusrückeordnung des TTT für das Spiel Emergency 20 gespielt mit der Lüdenscheid-Mod.
 
 ## Feuer
- Stichwort | Fahrzeuge | Typischer Einsatz 
+
+ Stichwort | Fahrzeuge | Typischer Einsatz
 ---|---|---
-B0|HLF|*(Kleinbrand ohne Ausbreitungsgefahr)*
-- B1 ELW-C, HLF, DLK, LF *(BMA, Rauch unklar, Heimrauchmelder)*
-- B2 ELW-B | ELW-C, HLF, DLK, LF | LF, DLK, TLF | GW-ATS, GW-L *(Siedlungsgebäude mit Ausbreitungstendenz)*
-- B3 ELW-B, ELW-B | TLF, TLF, TLF | ELW-C, HLF, DLK, LF | HLF, DLK, LF | LF | GW-ATS | GW-LOG | EKW *(Engstehende Gebäude, Mehrfamilienhaus, Gewerbe)*
-- B4 ELW-A, ELW-B, ELW-2/AB-ELW | TLF, TLF, TLF, TLF | ELW-C, HLF, DLK, LF | HLF, DLK, LF | HLF, DLK, LF | LF, LF | GW-ATS, AB-ATS | GW-LOG, SW2000 | EKW *(Industrie, Hochhaus, hohe Ausbreitungsgefahr)*
-- B5 ELW-A, ELW-B, ELW-C, ELW-2/AB-ELW | TLF, TLF, TLF, TLF, TLF | ELW-C, HLF, DLK, LF | HLF, DLK, LF | HLF, DLK, LF | HLF, DLK, LF | LF, LF, LF | GW-ATS, AB-ATS | GW-LOG, GW-LOG, SW2000, AB-Wasser | EKW | MTW, MTW | WaWe *(Ausnahmelage, Großbrand mit schwieriger Wasserversorgung und/oder hoher Ausbreitungsgefahr)*
+B0 | HLF    | Kleinbrand ohne Ausbreitungsgefahr
+B1 | ELW-C, HLF, DLK, LF| BMA, Rauch unklar, Heimrauchmelder
+B2 | ELW-B, ELW-C, HLF, DLK, LF, LF, DLK, TLF , GW-ATS, GW-L | Siedlungsgebäude mit Ausbreitungstendenz
+B3 | ELW-B, ELW-B, TLF, TLF, TLF, ELW-C, HLF, DLK, LF, HLF, DLK, LF, LF, GW-ATS, GW-LOG, EKW | Engstehende Gebäude, Mehrfamilienhaus, Gewerbe
+B4 | ELW-A, ELW-B, ELW-2/AB-ELW | TLF, TLF, TLF, TLF, ELW-C, HLF, DLK, LF, HLF, DLK, LF, HLF, DLK, LF, LF, LF, GW-ATS, AB-ATS, GW-LOG, SW2000, EKW | Industrie, Hochhaus, hohe Ausbreitungsgefahr
+B5 | ELW-A, ELW-B, ELW-C, ELW-2/AB-ELW - TLF, TLF, TLF, TLF, TLF - ELW-C, HLF, DLK, LF - HLF, DLK, LF - HLF, DLK, LF - HLF, DLK, LF - LF, LF, LF - GW-ATS, AB-ATS - GW-LOG, GW-LOG, SW2000, AB-Wasser - EKW - MTW, MTW - WaWe | Ausnahmelage, Großbrand mit schwieriger Wasserversorgung und/oder hoher Ausbreitungsgefahr
 
 ## ABC
 
-- ABC0 GW-Mess | GW-Dekon P *(VU mit GSG)*
-- ABC1 GW-Mess | GW-Dekon P, AB-Dekon *(Großlage GSG)*
-- ABC2 GW-Mess, ELW-A, ELW-2/AB-ELW | GW-Dekon P, AB-Dekon *(Großlage GSG + Löschflugzeug)*
+ABC0 GW-Mess | GW-Dekon P *(VU mit GSG)*
+ABC1 GW-Mess | GW-Dekon P, AB-Dekon *(Großlage GSG)*
+ABC2 GW-Mess, ELW-A, ELW-2/AB-ELW | GW-Dekon P, AB-Dekon *(Großlage GSG + Löschflugzeug)*
 
 ## Technische Hilfe
 
-- TH0 HLF *(Festsitzender Aufzug, Türöffnung)*
-- TH1 ELW-C, HLF, RW *(Sturmschäden, Verkehrsunfall 3+)*
-- TH2 ELW-C, HLF, HLF, RW *(Verkehrsunfall 6+)*
-- TH3 ELW-C, HLF, HLF, RW, AB-RÜST *(Flugzeugabsturz/Zugunglück)*
+TH0 HLF *(Festsitzender Aufzug, Türöffnung)*
+TH1 ELW-C, HLF, RW *(Sturmschäden, Verkehrsunfall 3+)*
+TH2 ELW-C, HLF, HLF, RW *(Verkehrsunfall 6+)*
+TH3 ELW-C, HLF, HLF, RW, AB-RÜST *(Flugzeugabsturz/Zugunglück)*
 
 ## Verkehrsunfall
 
-- VU0 FuStW *(Sachschaden)*
-- VU1 FuStW | RTW | HLF *(1 Fhz)*
-- VU2 FuStW, FuStW | RTW, RTW, NEF | HLF, HLF *(2 Fhz, Autobahn)*
+VU0 FuStW *(Sachschaden)*
+VU1 FuStW | RTW | HLF *(1 Fhz)*
+VU2 FuStW, FuStW | RTW, RTW, NEF | HLF, HLF *(2 Fhz, Autobahn)*
 
 ## Rettungsdienst
 
-- RD0 KTW *(ohne SoSi)*
-- RD1 RTW
-- RD1n RTW | NEF
-- RD2N RTW | RTW, NEF
+RD0 KTW *(ohne SoSi)*
+RD1 RTW
+RD1n RTW | NEF
+RD2N RTW | RTW, NEF
 
 ## Massenanfall an Verletzten
 
-- MANV5 LNA | RTW, RTW, RTW, RTW, RTW | NEF, NEF
-- MANV10 LNA | GRTW, ITW, RTW, RTW, RTW, RTW | NAF, NEF, NEF | GW-San
-- MANV15 LNA | GRTW, ITW, RTW, RTW, RTW | NAF, NEF, NEF, NEF, NEF | GW-San, PTZ
+MANV5 LNA | RTW, RTW, RTW, RTW, RTW | NEF, NEF
+MANV10 LNA | GRTW, ITW, RTW, RTW, RTW, RTW | NAF, NEF, NEF | GW-San
+MANV15 LNA | GRTW, ITW, RTW, RTW, RTW | NAF, NEF, NEF, NEF, NEF | GW-San, PTZ
 
 ## Polizei
 
-- POL3 FuStW, FuStW, FuStW
-- POL4 FuStW, FuStW, FuStW, FuStW
+POL3 FuStW, FuStW, FuStW
+POL4 FuStW, FuStW, FuStW, FuStW
 
-- POL-SEK SEK
-- POL-BePo BePo
+POL-SEK SEK
+POL-BePo BePo
 
-- POL-RAZZIA FuStW, FuStW, MTW | GefKW, SEK
-- POL-BOMBE FuStW, FuStW, FuStW, FuStW | KMRD
-- POL-TERROR FuStW, FuStW, MTW, MTW | BePo, BePo, BePo | GefKW, SEK
-- POL-DEMO FuStW, FuStW, MTW, MTW | BePo, BePo, BePo | GefKW | WaWe
-- POL-Drohne BeDoKaW
+POL-RAZZIA FuStW, FuStW, MTW | GefKW, SEK
+POL-BOMBE FuStW, FuStW, FuStW, FuStW | KMRD
+POL-TERROR FuStW, FuStW, MTW, MTW | BePo, BePo, BePo | GefKW, SEK
+POL-DEMO FuStW, FuStW, MTW, MTW | BePo, BePo, BePo | GefKW | WaWe
+POL-Drohne BeDoKaW
 
 ## Ausnahmezustand
 
-- ELW-A, KdoW, ELW-2/AB-ELW | LNA
+ELW-A, KdoW, ELW-2/AB-ELW | LNA
 
 ## Importierbarer Code
 
