@@ -2,11 +2,9 @@
 
 Alarmierung- und Ausrückeordnung (AAO) des [Tactical Training Team](https://www.tacticalteam.de) für das Spiel Emergency 20 gespielt mit der Lüdenscheid-Mod.
 Links:
-[Lüdenscheid-Mod](https://emergency-luedenscheid.de)
-
-[Erklärung AAO](https://emergency-luedenscheid.de/wiki/entry/63-alarm-und-ausrueckeordnung/)
-
-[Erklärung der Abkürzungen](https://emergency-luedenscheid.de/wiki/entry/39-alarmierungsmenue/)
+- [Lüdenscheid-Mod](https://emergency-luedenscheid.de)
+- [Erklärung AAO](https://emergency-luedenscheid.de/wiki/entry/63-alarm-und-ausrueckeordnung/)
+- [Erklärung der Abkürzungen](https://emergency-luedenscheid.de/wiki/entry/39-alarmierungsmenue/)
 
 ## Feuer
 
