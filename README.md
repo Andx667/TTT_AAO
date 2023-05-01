@@ -1,12 +1,16 @@
 # AAO TTT
 
-AlarmierungsAusrückeordnung des TTT für das Spiel Emergency 20 gespielt mit der Lüdenscheid-Mod.
+Alarmierung- und Ausrückeordnung (AAO) des [Tactical Training Team](https://www.tacticalteam.de) für das Spiel Emergency 20 gespielt mit der Lüdenscheid-Mod.
+Links:
+[Lüdenscheid-Mod](https://emergency-luedenscheid.de)
+[Erklärung AAO](https://emergency-luedenscheid.de/wiki/entry/63-alarm-und-ausrueckeordnung/)
+[Erklärung der Abkürzungen](https://emergency-luedenscheid.de/wiki/entry/39-alarmierungsmenue/)
 
 ## Feuer
 
- Stichwort | Fahrzeuge | Typischer Einsatz
+Stichwort | Fahrzeuge | Typischer Einsatz
 ---|---|---
-B0 | HLF    | Kleinbrand ohne Ausbreitungsgefahr
+B0 | HLF | Kleinbrand ohne Ausbreitungsgefahr
 B1 | ELW-C, HLF, DLK, LF| BMA, Rauch unklar, Heimrauchmelder
 B2 | ELW-B - ELW-C, HLF, DLK, LF - LF, DLK, TLF - GW-ATS - GW-L | Siedlungsgebäude mit Ausbreitungstendenz
 B3 | ELW-B, ELW-B - TLF, TLF, TLF - ELW-C, HLF, DLK, LF - HLF, DLK, LF - LF - GW-ATS - GW-LOG - EKW | Engstehende Gebäude, Mehrfamilienhaus, Gewerbe
@@ -15,7 +19,7 @@ B5 | ELW-A, ELW-B, ELW-C, ELW-2/AB-ELW - TLF, TLF, TLF, TLF, TLF - ELW-C, HLF, D
 
 ## ABC
 
- Stichwort | Fahrzeuge | Typischer Einsatz
+Stichwort | Fahrzeuge | Typischer Einsatz
 ---|---|---
 ABC0 | GW-Mess - GW-Dekon P | VU mit GSG
 ABC1 | GW-Mess - GW-Dekon P, AB-Dekon | Großlage GSG
@@ -23,47 +27,57 @@ ABC2 | GW-Mess, ELW-A, ELW-2/AB-ELW - GW-Dekon P, AB-Dekon | Großlage GSG + Lö
 
 ## Technische Hilfe
 
-TH0 HLF *(Festsitzender Aufzug, Türöffnung)*
-TH1 ELW-C, HLF, RW *(Sturmschäden, Verkehrsunfall 3+)*
-TH2 ELW-C, HLF, HLF, RW *(Verkehrsunfall 6+)*
-TH3 ELW-C, HLF, HLF, RW, AB-RÜST *(Flugzeugabsturz/Zugunglück)*
+Stichwort | Fahrzeuge | Typischer Einsatz
+---|---|---
+TH0 | HLF | Festsitzender Aufzug, Türöffnung
+TH1 | ELW-C, HLF, RW | Sturmschäden, Verkehrsunfall 3+
+TH2 | ELW-C, HLF, HLF, RW | Verkehrsunfall 6+
+TH3 | ELW-C, HLF, HLF, RW, AB-RÜST | Flugzeugabsturz/Zugunglück
 
 ## Verkehrsunfall
 
-VU0 FuStW *(Sachschaden)*
-VU1 FuStW | RTW | HLF *(1 Fhz)*
-VU2 FuStW, FuStW | RTW, RTW, NEF | HLF, HLF *(2 Fhz, Autobahn)*
+Stichwort | Fahrzeuge | Typischer Einsatz
+---|---|---
+VU0 | FuStW | Sachschaden
+VU1 | FuStW - RTW - HLF | 1 Fhz
+VU2 | FuStW, FuStW - RTW, RTW - NEF - HLF, HLF | 2 Fhz, Autobahn
 
 ## Rettungsdienst
 
-RD0 KTW *(ohne SoSi)*
-RD1 RTW
-RD1n RTW | NEF
-RD2N RTW | RTW, NEF
+Stichwort | Fahrzeuge | Typischer Einsatz
+---|---|---
+RD0 | KTW | ohne Sondersignal
+RD1 | RTW |
+RD1n | RTW - NEF |
+RD2N | RTW, RTW - NEF |
 
-## Massenanfall an Verletzten
+### Massenanfall an Verletzten
 
-MANV5 LNA | RTW, RTW, RTW, RTW, RTW | NEF, NEF
-MANV10 LNA | GRTW, ITW, RTW, RTW, RTW, RTW | NAF, NEF, NEF | GW-San
-MANV15 LNA | GRTW, ITW, RTW, RTW, RTW | NAF, NEF, NEF, NEF, NEF | GW-San, PTZ
+Stichwort | Fahrzeuge | Typischer Einsatz
+---|---|---
+MANV5 | LNA - RTW, RTW, RTW, RTW, RTW - NEF, NEF |
+MANV10 | LNA - GRTW, ITW - RTW, RTW, RTW, RTW - NAF, NEF, NEF - GW-San |
+MANV15 | LNA - GRTW, ITW - RTW, RTW, RTW - NAF, NEF, NEF, NEF, NEF - GW-San, PTZ |
 
 ## Polizei
 
-POL3 FuStW, FuStW, FuStW
-POL4 FuStW, FuStW, FuStW, FuStW
-
-POL-SEK SEK
-POL-BePo BePo
-
-POL-RAZZIA FuStW, FuStW, MTW | GefKW, SEK
-POL-BOMBE FuStW, FuStW, FuStW, FuStW | KMRD
-POL-TERROR FuStW, FuStW, MTW, MTW | BePo, BePo, BePo | GefKW, SEK
-POL-DEMO FuStW, FuStW, MTW, MTW | BePo, BePo, BePo | GefKW | WaWe
-POL-Drohne BeDoKaW
+Stichwort | Fahrzeuge | Typischer Einsatz
+---|---|---
+POL3 | FuStW, FuStW, FuStW
+POL4 | FuStW, FuStW, FuStW, FuStW
+POL-RAZZIA | FuStW, FuStW, MTW - GefKW, SEK
+POL-BOMBE | FuStW, FuStW, FuStW, FuStW - KMRD
+POL-TERROR | FuStW, FuStW, MTW, MTW - BePo, BePo, BePo - GefKW, SEK
+POL-DEMO | FuStW, FuStW, MTW, MTW - BePo, BePo, BePo - GefKW - WaWe
+POL-SEK | SEK
+POL-BePo | BePo
+POL-Drohne | BeDoKaW
 
 ## Ausnahmezustand
 
-ELW-A, KdoW, ELW-2/AB-ELW | LNA
+Stichwort | Fahrzeuge | Typischer Einsatz
+---|---|---
+Ausnahme | ELW-A, KdoW, ELW-2/AB-ELW, LNA | Sturmtief, Hitzewelle
 
 ## Importierbarer Code
 
