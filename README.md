@@ -15,9 +15,11 @@ B5 | ELW-A, ELW-B, ELW-C, ELW-2/AB-ELW - TLF, TLF, TLF, TLF, TLF - ELW-C, HLF, D
 
 ## ABC
 
-ABC0 GW-Mess | GW-Dekon P *(VU mit GSG)*
-ABC1 GW-Mess | GW-Dekon P, AB-Dekon *(Großlage GSG)*
-ABC2 GW-Mess, ELW-A, ELW-2/AB-ELW | GW-Dekon P, AB-Dekon *(Großlage GSG + Löschflugzeug)*
+ Stichwort | Fahrzeuge | Typischer Einsatz
+---|---|---
+ABC0 | GW-Mess - GW-Dekon P | VU mit GSG
+ABC1 | GW-Mess - GW-Dekon P, AB-Dekon | Großlage GSG
+ABC2 | GW-Mess, ELW-A, ELW-2/AB-ELW - GW-Dekon P, AB-Dekon | Großlage GSG + Löschflugzeug
 
 ## Technische Hilfe
 
