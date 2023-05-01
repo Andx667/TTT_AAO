@@ -8,9 +8,9 @@ AlarmierungsAusrückeordnung des TTT für das Spiel Emergency 20 gespielt mit de
 ---|---|---
 B0 | HLF    | Kleinbrand ohne Ausbreitungsgefahr
 B1 | ELW-C, HLF, DLK, LF| BMA, Rauch unklar, Heimrauchmelder
-B2 | ELW-B, ELW-C, HLF, DLK, LF, LF, DLK, TLF , GW-ATS, GW-L | Siedlungsgebäude mit Ausbreitungstendenz
-B3 | ELW-B, ELW-B, TLF, TLF, TLF, ELW-C, HLF, DLK, LF, HLF, DLK, LF, LF, GW-ATS, GW-LOG, EKW | Engstehende Gebäude, Mehrfamilienhaus, Gewerbe
-B4 | ELW-A, ELW-B, ELW-2/AB-ELW | TLF, TLF, TLF, TLF, ELW-C, HLF, DLK, LF, HLF, DLK, LF, HLF, DLK, LF, LF, LF, GW-ATS, AB-ATS, GW-LOG, SW2000, EKW | Industrie, Hochhaus, hohe Ausbreitungsgefahr
+B2 | ELW-B - ELW-C, HLF, DLK, LF - LF, DLK, TLF - GW-ATS - GW-L | Siedlungsgebäude mit Ausbreitungstendenz
+B3 | ELW-B, ELW-B - TLF, TLF, TLF - ELW-C, HLF, DLK, LF - HLF, DLK, LF - LF - GW-ATS - GW-LOG - EKW | Engstehende Gebäude, Mehrfamilienhaus, Gewerbe
+B4 | ELW-A, ELW-B, ELW-2/AB-ELW - TLF, TLF, TLF, TLF - ELW-C, HLF, DLK, LF - HLF, DLK, LF - HLF, DLK, LF - LF, LF - GW-ATS, AB-ATS - GW-LOG, SW2000 - EKW | Industrie, Hochhaus, hohe Ausbreitungsgefahr
 B5 | ELW-A, ELW-B, ELW-C, ELW-2/AB-ELW - TLF, TLF, TLF, TLF, TLF - ELW-C, HLF, DLK, LF - HLF, DLK, LF - HLF, DLK, LF - HLF, DLK, LF - LF, LF, LF - GW-ATS, AB-ATS - GW-LOG, GW-LOG, SW2000, AB-Wasser - EKW - MTW, MTW - WaWe | Ausnahmelage, Großbrand mit schwieriger Wasserversorgung und/oder hoher Ausbreitungsgefahr
 
 ## ABC
