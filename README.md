@@ -13,7 +13,7 @@ Stichwort | Fahrzeuge | Typischer Einsatz
 ---|---|---
 B0 | HLF | Kleinbrand ohne Ausbreitungsgefahr
 B1 | ELW-C, HLF, DLK, LF| BMA, Rauch unklar, Heimrauchmelder
-B2 | ELW-B - ELW-C, HLF, DLK, LF - LF, DLK, TLF - GW-ATS - GW-L | Siedlungsgebäude mit Ausbreitungstendenz
+B2 | ELW-B - ELW-C, HLF, DLK, LF - LF, DLK, TLF - GW-ATS - GW-LOG | Siedlungsgebäude mit Ausbreitungstendenz
 B3 | ELW-B - TLF, TLF, TLF - ELW-C, HLF, DLK, LF - ELW-C HLF, DLK, LF - LF - GW-ATS - GW-LOG - EKW | Engstehende Gebäude, Mehrfamilienhaus, Gewerbe
 B4 | ELW-A, ELW-2, ELW-B, - TLF, TLF, TLF, TLF - ELW-C, HLF, DLK, LF - ELW-C, HLF, DLK, LF - HLF, DLK, LF - LF, LF - GW-ATS, AB-ATS - GW-LOG, SW2000, AB-Wasser - EKW | Industrie, Hochhaus, hohe Ausbreitungsgefahr
 B5 | ELW-A, ELW-B, ELW-2 - TLF, TLF, TLF, TLF, TLF - ELW-C, HLF, DLK, LF - ELW-C, HLF, DLK, LF - ELW-C, HLF, DLK, LF - HLF, DLK, LF - LF, LF, LF - GW-ATS, AB-ATS - GW-LOG, GW-LOG, SW2000, AB-Wasser - EKW - MTW, MTW - WaWe | Ausnahmelage, Großbrand mit schwieriger Wasserversorgung und/oder hoher Ausbreitungsgefahr
@@ -32,8 +32,8 @@ Stichwort | Fahrzeuge | Typischer Einsatz
 ---|---|---
 TH0 | HLF | Festsitzender Aufzug, Türöffnung
 TH1 | ELW-C - HLF - RW | Sturmschäden, Verkehrsunfall >2
-TH2 | ELW-C - HLF, HLF - RW, GW-Log | Verkehrsunfall >4
-TH3 | ELW-C - HLF, HLF - RW, GW-Log, AB-RÜST | Flugzeugabsturz/Zugunglück
+TH2 | ELW-C - HLF, HLF - RW, GW-LOG | Verkehrsunfall >4
+TH3 | ELW-C - HLF, HLF - RW, GW-LOG, AB-RÜST | Flugzeugabsturz/Zugunglück
 
 ## Verkehrsunfall
 
